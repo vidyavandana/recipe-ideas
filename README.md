@@ -70,5 +70,5 @@ npm run dev
 
 ## **Live Demo & Source Code**
 
-* **Live App (CodeSandbox):** [https://codesandbox.io/p/github/vidyavandana/recipe-ideas/main](https://codesandbox.io/p/github/vidyavandana/recipe-ideas/main)
+* **Live App (CodeSandbox):** [https://pdgq9r-5173.csb.app/](https://pdgq9r-5173.csb.app/)
 * **Source Code (GitHub):** [https://github.com/vidyavandana/recipe-ideas](https://github.com/vidyavandana/recipe-ideas)
