@@ -11,12 +11,6 @@
 * Build an interactive, user-friendly **React/Vite** application tailored for Taylor to **discover, search, and save favorite recipes**.
 
 ---
-
-The rest of the README can then flow into **Features, Tech Stack, How to Run, Skills Demonstrated, and Live Demo** sections.
-
-If you want, I can now **draft the complete recruiter-ready README** with all sections using this updated persona context. Do you want me to do that?
-
-
 ## **Features**
 
 * **Smart Search:** Search by meal name, cuisine, or multiple ingredients.
