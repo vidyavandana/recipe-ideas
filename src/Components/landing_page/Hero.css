@@ -1,0 +1,36 @@
+
+.hero-section {
+  background: linear-gradient(to left, #ffffff, #03365b);
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.hero-heading {
+  font-size: 2.25rem;
+  font-weight: 700;
+  color: black;
+  margin-bottom: 0.5rem;
+}
+
+.hero-subheading {
+  color: rgba(58, 46, 46, 0.903);
+  font-size: 1.125rem;
+  margin-bottom: 1rem;
+}
+
+.hero-notification {
+  color: rgb(0, 0, 0);
+  font-size: 1rem;
+  font-style: italic;
+}
+.dark-mode .hero-section {
+  background: linear-gradient(to right, #050505, #033d51);
+}
+.dark-mode .hero-heading,
+.dark-mode .hero-notification {
+  color: white;
+}
+.dark-mode .hero-subheading{
+  color: rgb(130, 128, 131);
+
+}
